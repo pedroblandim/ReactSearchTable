@@ -1,0 +1,15 @@
+.table{
+    display: inline-block;
+    min-width: 200px;
+    
+    border:1px solid #ccc ;
+    border-radius: 2px;
+    padding:8px;
+
+}
+.search{
+    /* display: inline-block; */
+}
+.search div{
+    /* display: inline-block; */
+}
